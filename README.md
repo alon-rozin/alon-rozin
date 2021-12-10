@@ -1,10 +1,17 @@
-### Hi there 👋
+<!--![add bannre discription](https://add banner.jpg)-->
+
+# Alon rozin
+I'm Alon from Israel, and this is my partfolio of me as data analyst and python developer
+
+## Skills and Experience
+* ⚛ 
+* 📱 
+* 💻
+
+## Examples of Work
+<!--<img src="https://github.com/.gif" width="512" >-->
 
 <!--
-**alon-rozin/alon-rozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
