@@ -9,6 +9,7 @@ I'm Alon from Israel, and this is my partfolio of me as data analyst and python 
 * 💻
 
 📫 How to reach me
+
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/alonrozin1/)
 
 ## Examples of Work
